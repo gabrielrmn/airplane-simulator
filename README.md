@@ -35,6 +35,6 @@ This game is a flight simulator in 3D that must be controlled using WASD keys. I
 - Files with .obj extension;
 - Display Lists;
 - Sound effects (using SDL_mixer);
-- Autonomous objects (birds and the propeller);
+- Autonomous objects (birds and the propeller of the windmill);
 - Mouse movement (The airplane is controlled like a FPS game);
 - Basic knowledge in Computer Graphics.
