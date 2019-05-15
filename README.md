@@ -14,8 +14,7 @@ sudo apt-get install libglew-dev;
 # Overview
 This game is a flight simulator in 3D that must be controlled using WASD keys. In this game, you can land in a special place (a landing track), change the cameras (1st person, 3rd person and 2D cameras), activate a fog and activate the light.
 
-![screen4](https://user-images.githubusercontent.com/49728258/57742641-54b89400-7698-11e9-851c-24c26ad3716f.png)
-
+![Captura de Tela 2019-05-14 às 22 46 32](https://user-images.githubusercontent.com/49728258/57743131-479ca480-769a-11e9-8d56-486d16d9a083.png)
 # Controls
 
 - 1 key: 2D Camera;
