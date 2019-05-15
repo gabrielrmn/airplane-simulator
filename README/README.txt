@@ -7,9 +7,9 @@ escrever no terminal :
                 - make run.
 
 <<<<<<< HEAD
-# COMO JOGAR (teclas e funcionalidades) O JOGO : MEDIEVAL ROADS . 
+# COMO JOGAR (teclas e funcionalidades) O JOGO : AIRPLANE SIMULATOR. 
 
-# COMO JOGAR (gameplay) O JOGO : MEDIEVAL ROADS .
+# COMO JOGAR (gameplay) O JOGO : AIRPLANE SIMULATOR.
 
 # DE ONDE RETIRAMOS AS TEXTURAS E MUSICA???
 
