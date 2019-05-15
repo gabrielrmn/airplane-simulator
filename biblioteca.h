@@ -1,0 +1,11 @@
+#include <SOIL/SOIL.h>
+#include <GL/glew.h>
+#include <GL/freeglut.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+#include <SDL/SDL_mixer.h>
+#include <SDL/SDL.h>
+#include <time.h>
+#include <GL/gl.h>
+#include <GL/glut.h>
